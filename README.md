@@ -1,6 +1,6 @@
 # Udacity_Pytorch
 Introduction to Pytorch | Course from Udacity |  March - July 2020
-These are some of the completed exercises.  After lesson 4 I moved across to Colab, as my trusty old Dell E6430 doesn't have a CUDA enabled GPU.
+These are some of the completed exercises.  After lesson 4 I started running the code on Colab, as my trusty old Dell E6430 doesn't have a CUDA enabled GPU.
 
 I started the course during the New Zealand Covid-lockdown, but continued during my post-lockdown outdoors action rampage period, some of it from the Mt Hutt ski field cafeteria!
 
